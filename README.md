@@ -7,5 +7,8 @@ Statistical Data Science student, enthused about fueling data driven decisions
 - Interested in applied mathematics, statistics, and machine learning
 - Currently learning SQL, Python for data analysis, core ML fundamentals
 
+## Projects
+- [Life Expectancy Analysis](https://github.com/addeystephenyaw/life-expectancy-analysis) - Data cleaning, hypothesis testing, and regression modelling on WHO health data
+
 # Get In Touch
 addeystephenjnr@gmail.com 
